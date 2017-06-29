@@ -538,7 +538,7 @@ foi truncada. No terceiro gráfico, a reta sobe mais rápido ainda,
 simplesmente porque, além de a escala ter sido truncada, a proporção
 entre as abscissas e as ordenadas foi modificada.
 
-(imaagem 41)
+(imagem 41)
 
 Gráficos constituem excelente forma de apresentar dados, mas também
 podem enganar os incautos. Eu confio em você para não enganar os
